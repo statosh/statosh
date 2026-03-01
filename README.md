@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-This is the second account of [@THOAkatosh](https://github.com/THOAkatosh/) for educational purposes.
-
-GitVerse for the same purpose: https://gitverse.ru/statosh
+This is the second profile of [@THOAkatosh](https://github.com/THOAkatosh/) for educational purposes.<br/>
+GitVerse profile for the same purpose: [gitverse.ru/statosh](https://gitverse.ru/statosh)
